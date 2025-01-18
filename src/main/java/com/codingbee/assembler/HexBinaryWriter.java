@@ -38,9 +38,9 @@ public class HexBinaryWriter {
     }
 
     public static void main(String[] args) {
-        args = new String[2];
-        args[0] = "src/main/resources/text.txt";
-        args[1] = "src/main/resources/output.hex";
+//        args = new String[2];
+//        args[0] = "src/main/resources/text.txt";
+//        args[1] = "src/main/resources/output.hex";
         String original = loadFileAsString(args[0]);
         String hexString = Assembler.translate(original);
         String[] r = hexString.split("\n");

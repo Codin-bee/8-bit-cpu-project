@@ -1,4 +1,4 @@
-package com.codingbee;
+package com.codingbee.java_mlp;
 
 import java.io.IOException;
 

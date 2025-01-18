@@ -1,5 +1,5 @@
 //```
-package com.codingbee;
+package com.codingbee.java_mlp;
 
 //Importing libraries
 import java.io.BufferedReader;
