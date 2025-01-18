@@ -38,3 +38,26 @@ build/
 .DS_Store
 # Project exclude paths
 /out/
+/src/main/resources/n1/biases/biases.txt
+/.idea/.gitignore
+/.idea/artifacts/Assembler_jar.xml
+/src/main/resources/network/biases.txt
+/.idea/encodings.xml
+/src/main/resources/n1/firstWeights/firstWeights.txt
+/src/main/resources/network/firstWeights.txt
+/src/main/resources/instructionSet.txt
+/src/main/resources/META-INF/MANIFEST.MF
+/src/main/cpp/com/codingbee/MinimalisticMLP.cpp
+/src/main/cpp/com/codingbee/MinimalisticMLP.h
+/.idea/misc.xml
+/src/main/resources/output.hex
+/.idea/inspectionProfiles/Project_Default.xml
+/src/main/resources/text.txt
+/.idea/uiDesigner.xml
+/.idea/vcs.xml
+/src/main/resources/n1/weights/weights_0.txt
+/src/main/resources/network/weights_0.txt
+/src/main/resources/n1/weights/weights_1.txt
+/src/main/resources/network/weights_1.txt
+/src/main/resources/n1/weights/weights_2.txt
+/src/main/resources/network/weights_2.txt
